@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://matheusgrundler.com/wp-content/uploads/gifs/lesconeLogo.png" alt="caravan logo"/>
+  <img src="https://matheusgrundler.com/wp-content/uploads/gifs/bikcraftLogo.png" alt="Bikecraft logo"/>
   </br>
   </br>
 
-> Site para informações de contato e menu de um restaurante
+> Site institucional para empresa que constrói bicicletas feitas a mão.
 
-Lescone é um projeto que consiste permitir que os clientes saibam se o restaurante está aberto, informações de contato e sobre o cardápio
+O site da Bikecraft foi desenvolvido desde o briefing até o deploy, pensando numa abordagem totalmente tecnológica e atual.
 
 <p align="center">
-<a href="https://github.com/MatheusGrundler/caravan">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MatheusGrundler/caravan">
+<a href="https://github.com/MatheusGrundler/bikecraft">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MatheusGrundler/bikecraft">
 </a>
-<a href="https://github.com/MatheusGrundler/caravan">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/MatheusGrundler/caravan">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MatheusGrundler/caravan">
+<a href="https://github.com/MatheusGrundler/bikecraft">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/MatheusGrundler/bikecraft">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MatheusGrundler/bikecraft">
 </a>
 </p>
 
@@ -21,19 +21,19 @@ Lescone é um projeto que consiste permitir que os clientes saibam se o restaura
 
 ## Preview
 
-<img src="https://matheusgrundler.com/wp-content/uploads/gifs/caravan.jpg" alt="Caravan logo "/>
+<img src="https://matheusgrundler.com/wp-content/uploads/gifs/bikecraftSite.png" alt="Caravan logo "/>
 
 ## Sobre o projeto
 
-Site foi construído durante o curso de bootstrap4 da <a href="https://origamid.com/">Origamid</a>.
+Desenvolvido durante o curso de webdesign Completo da [Origamid](https://origamid.com/).
 
 ## Tecnologias
 
 - HTML
 - CSS
 - Javascript
-- Bootstrap
 - Jquery
+- PHP
 
 ## Instalação
 
